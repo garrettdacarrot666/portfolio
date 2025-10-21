@@ -8,7 +8,7 @@
 
 Description
 
-* [Windows EXE]()
-* [Mac Appl]()
+* [Windows EXE](https://github.com/garrettdacarrot666/portfolio/blob/main/src/SpaceGame/windows-amd64.zip)
+* [Mac Appl](https://github.com/garrettdacarrot666/portfolio/tree/main/src/SpaceGame/SpaceGame)
 * [Linux Executable]()
-* [Source Code]()
+* [Source Code](https://github.com/garrettdacarrot666/portfolio/tree/main/src/SpaceGame/SpaceGame)
